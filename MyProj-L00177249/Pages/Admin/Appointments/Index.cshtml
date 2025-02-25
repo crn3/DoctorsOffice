@@ -1,0 +1,43 @@
+﻿@page
+@model MyProj_L00177249.Pages.Admin.Appointments.IndexModel
+@{
+}
+
+<h1>Appointments</h1>
+<a asp-page="Create" class="btn btn-primary">
+    Add Appointment
+</a>
+<br />
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Appt. ID</th>
+            <th>Patient</th>
+            <th>Doctor</th>
+            <th>Date</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model.Appointment)
+        {
+            <tr>
+                <td width="5%">@obj.Id</td>
+                <td width="15%">@obj.Patient.FirstName @obj.Patient.LastName</td>
+                <td width="15%">@obj.Doctor.FirstName @obj.Doctor.LastName</td>
+                <td width="15%">@obj.AppDate</td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-page="Edit" asp-route-id="@obj.Id">Edit</a>
+                    </div>
+                </td>
+                <td>
+                    <div class="w-75 btn-group" role="group">
+                        <a asp-page="Delete" asp-route-id="@obj.Id" class="btn btn-primary mx-2">Delete</a>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

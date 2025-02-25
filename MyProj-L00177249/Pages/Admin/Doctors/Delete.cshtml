@@ -1,0 +1,49 @@
+﻿@page
+@model MyProj_L00177249.Pages.Admin.Doctors.DeleteModel
+@{
+}
+
+<form method="post">
+    <input hidden asp-for="Doctor.ID" />
+	<h2>Delete doctor</h2>
+	<div asp-validation-summary="All"></div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Doctor.ID">ID</label>
+        <input asp-for="@Model.Doctor.ID" class="form-control" required />
+        <span asp-validation-for="@Model.Doctor.ID" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Doctor.FirstName">First Name</label>
+        <input asp-for="@Model.Doctor.FirstName" class="form-control" />
+        <span asp-validation-for="@Model.Doctor.FirstName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Doctor.LastName">Last Name</label>
+        <input asp-for="@Model.Doctor.LastName" class="form-control" />
+        <span asp-validation-for="@Model.Doctor.LastName" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Doctor.Specialisation">Specialisation</label>
+        <input asp-for="@Model.Doctor.Specialisation" type="date" class="form-control" />
+        <span asp-validation-for="@Model.Doctor.Specialisation" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Doctor.Image">FileUpload</label>
+        <input type="file" dirname="files" id="upLoadBox" class="form-control" />
+    </div>
+
+
+    <button type="submit" class="btn btn-danger" style="width:150px">Delete</button>
+    <a asp-page="Index" class="btn btn-secondary" style="width:150px">Back to Doctors</a>
+
+</form>
+@section Scripts {
+    @{
+        <partial name="_validationScriptsPartial" />
+    }
+}

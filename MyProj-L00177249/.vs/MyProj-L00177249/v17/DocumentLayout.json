@@ -1,0 +1,787 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\apptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097AAABC-F0D5-4F42-A612-BE553E4895E3}|..\\MyProj.Models\\MyProj.Models.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.models\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\doctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D46B4D-D992-4B4B-9F07-0757817CC256}|..\\Services\\MyProj.Services.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\services\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorDoctorsOfficeDB/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorDoctorsOfficeDB/True/SqlTable/dbo.Doctors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorDoctorsOfficeDB/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\iapptrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097AAABC-F0D5-4F42-A612-BE553E4895E3}|..\\MyProj.Models\\MyProj.Models.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.models\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\idoctorrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{097AAABC-F0D5-4F42-A612-BE553E4895E3}|..\\MyProj.Models\\MyProj.Models.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.models\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\dataaccess\\projdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\myproj.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\patientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D46B4D-D992-4B4B-9F07-0757817CC256}|..\\Services\\MyProj.Services.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\services\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\repository\\ipatientrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Migrations\\20250224131602_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDB/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DoctorsOfficeDB/True/SqlTable/dbo.Appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DoctorsOfficeDB/True/SqlTable/dbo.Patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\doctors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\patients\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A4AF6A-660E-438F-805B-7E2D01FF3FD2}|..\\MyProj.DataAccess\\MyProj.DataAccess.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj.dataaccess\\migrations\\20250224133248_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 195,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:21:17.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:32:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:21:28.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApptRepo.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\ApptRepo.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\ApptRepo.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\ApptRepo.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\ApptRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:34.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Create.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:22:48.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.Models\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.Models\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.Models\\Models\\Appointment.cs",
+              "RelativeToolTip": "..\\MyProj.Models\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:33:44.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:18:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:06:17.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\Repository.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:49:30.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\DoctorRepo.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\DoctorRepo.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\DoctorRepo.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\DoctorRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:36:03.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAEwCMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:55:02.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IRepository.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:48:13.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\Services\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Services\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\Services\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\Services\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:23:33.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:11:35.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.Appointments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorDoctorsOfficeDB/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "dbo.Appointments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T15:25:43.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.Doctors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorDoctorsOfficeDB/True/SqlTable/dbo.Doctors.sql",
+              "ToolTip": "dbo.Doctors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T13:35:03.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/RazorDoctorsOfficeDB/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T13:17:52.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:55:33.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:58:30.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:15:49.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IApptRepo.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IApptRepo.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\IApptRepo.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IApptRepo.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\IApptRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:27:36.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Appointments\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T12:58:59.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:13:36.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:15:02.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:18:13.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.Models\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.Models\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.Models\\Models\\Doctor.cs",
+              "RelativeToolTip": "..\\MyProj.Models\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:23:42.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IDoctorRepo.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IDoctorRepo.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\IDoctorRepo.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IDoctorRepo.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\IDoctorRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:02:18.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.Models\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.Models\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.Models\\Models\\Patient.cs",
+              "RelativeToolTip": "..\\MyProj.Models\\Models\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:39:57.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250224133248_new.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Migrations\\20250224133248_new.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Migrations\\20250224133248_new.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Migrations\\20250224133248_new.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Migrations\\20250224133248_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:32:49.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProjDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\DataAccess\\ProjDBContext.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\DataAccess\\ProjDBContext.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\DataAccess\\ProjDBContext.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\DataAccess\\ProjDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:47:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MyProj.DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\MyProj.DataAccess.csproj",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\MyProj.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\MyProj.DataAccess.csproj",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\MyProj.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T13:11:10.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:10:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Create.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAEIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:16:55.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\PatientRepo.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\PatientRepo.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\PatientRepo.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\PatientRepo.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAIwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:36:36.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPatientRepo.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IPatientRepo.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Repository\\IPatientRepo.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Repository\\IPatientRepo.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\IPatientRepo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\Services\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\Services\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\Services\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\Services\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:23:30.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T13:12:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDB/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T13:13:00.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250224131602_new.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Migrations\\20250224131602_new.cs",
+              "RelativeDocumentMoniker": "..\\MyProj.DataAccess\\Migrations\\20250224131602_new.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj.DataAccess\\Migrations\\20250224131602_new.cs",
+              "RelativeToolTip": "..\\MyProj.DataAccess\\Migrations\\20250224131602_new.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:16:02.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.Appointments [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DoctorsOfficeDB/True/SqlTable/dbo.Appointments.sql",
+              "ToolTip": "dbo.Appointments [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T13:09:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "dbo.Patients [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DoctorsOfficeDB/True/SqlTable/dbo.Patients.sql",
+              "ToolTip": "dbo.Patients [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-02-24T13:09:20.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:19:11.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:20:05.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:07:35.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Index.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T13:06:13.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:21:01.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:20:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Doctors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Doctors\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Doctors\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:19:09.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Admin\\Patients\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Patients\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Admin\\Patients\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:20:59.598Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+﻿@page
+@model MyProj_L00177249.Pages.Admin.Appointments.DeleteModel
+@{
+}
+
+<form method="post">
+    <input hidden asp-for="Appointment.Id" />
+    <h2>Delete Appointment</h2>
+    <div asp-validation-summary="All"></div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Appointment.AppDate">Appt. Date</label>
+        <input asp-for="@Model.Appointment.AppDate" class="form-control" required />
+        <span asp-validation-for="@Model.Appointment.AppDate" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Appointment.DoctorId"></label>
+        <select asp-for="@Model.Appointment.DoctorId" asp-items="@Model.DoctorList" class="form-select">
+            <option disabled selected="selected Doctor ---"></option>
+        </select>
+        <span asp-validation-for="@Model.Appointment.DoctorId" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="@Model.Appointment.PPS"></label>
+        <select asp-for="@Model.Appointment.PPS" asp-items="@Model.PatientList" class="form-select">
+            <option disabled selected="selected Patient ---"></option>
+        </select>
+        <span asp-validation-for="@Model.Appointment.PPS" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Appointment.AppDate">Appointment Date</label>
+        <input asp-for="Appointment.AppDate" type="datetime-local" class="form-control" required />
+        <span asp-validation-for="Appointment.AppDate" class="text-danger"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary" style="width:150px">Delete</button>
+    <a asp-page="Index" class="btn btn-secondary" style="width:150px">Back to Appointments</a>
+
+</form>
+@section Scripts {
+    @{
+        <partial name="_validationScriptsPartial" />
+    }
+}

@@ -1,0 +1,17 @@
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.Services.deps.json
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.Services.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.Services.pdb
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.DataAccess.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.Models.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.DataAccess.pdb
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\bin\Debug\net8.0\MyProj.Models.pdb
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.csproj.AssemblyReference.cache
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.AssemblyInfoInputs.cache
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.AssemblyInfo.cs
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.csproj.CoreCompileInputs.cache
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.S.ABDA928D.Up2Date
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\refint\MyProj.Services.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.pdb
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\ref\MyProj.Services.dll
