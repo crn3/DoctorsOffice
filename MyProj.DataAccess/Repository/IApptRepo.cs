@@ -10,5 +10,6 @@ namespace MyProj.DataAccess.Repository
 	public interface IApptRepo : IRepository<Appointment>
 	{
 		public void Update(Appointment appt);
-	}
+        IEnumerable<Appointment> GetAll(string? includeProperties = null); // Add this
+    }
 }

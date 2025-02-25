@@ -11,7 +11,8 @@ namespace MyProj.DataAccess.Repository
         void Add(T obj);
         void Update(T obj);
         void Delete(T obj);
-        IEnumerable<T> GetAll();
-        T Get(string id);  
+        IEnumerable<T> GetAll(string? includeProperties = null);
+        T Get(object id);  //object instead of explicitly an int or string
+                           //patient uses a string, appt/dr uses an int
     }
 }

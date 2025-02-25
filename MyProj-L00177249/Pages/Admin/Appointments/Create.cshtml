@@ -13,20 +13,21 @@
     </div>
 
     <div class="mb-3">
-        <label asp-for="@Model.Appointment.DoctorId">Doctor</label>
-        <select asp-for="@Model.Appointment.DoctorId" asp-items="@Model.DoctorList" class="form-select">
-            <option disabled selected="selected Doctor ---"></option>
+        <label asp-for="Appointment.DoctorId">Doctor</label>
+        <select asp-for="Appointment.DoctorId" asp-items="Model.DoctorList" class="form-select">
+            <option value="">-- Select Doctor --</option>
         </select>
-        <span asp-validation-for="@Model.Appointment.DoctorId" class="text-danger"></span>
+        <span asp-validation-for="Appointment.DoctorId" class="text-danger"></span>
     </div>
 
     <div class="mb-3">
-        <label asp-for="@Model.Appointment.PPS">Patient</label>
-        <select asp-for="@Model.Appointment.PPS" asp-items="@Model.PatientList" class="form-select">
-        <option disabled selected="selected Patient ---"></option>
+        <label asp-for="Appointment.PPS">Patient</label>
+        <select asp-for="Appointment.PPS" asp-items="Model.PatientList" class="form-select">
+            <option value="">-- Select Patient --</option>
         </select>
-        <span asp-validation-for="@Model.Appointment.PPS" class="text-danger"></span>
+        <span asp-validation-for="Appointment.PPS" class="text-danger"></span>
     </div>
+
 
     <div class="mb-3">
         <label asp-for="Appointment.Notes">Notes</label>

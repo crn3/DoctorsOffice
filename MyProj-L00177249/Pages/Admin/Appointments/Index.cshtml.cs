@@ -19,7 +19,7 @@ namespace MyProj_L00177249.Pages.Admin.Appointments
         }
         public void OnGet()
         {
-            Appointment = _unitOfWork.ApptRepo.GetAll();
+            Appointment = _unitOfWork.ApptRepo.GetAll(includeProperties: "Patient,Doctor");
         }
     }
 }

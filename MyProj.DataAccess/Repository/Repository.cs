@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using MyProj.DataAccess.DataAccess;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace MyProj.DataAccess.Repository
 {
@@ -27,7 +28,7 @@ namespace MyProj.DataAccess.Repository
             dbSet.Remove(obj);
         }
 
-        public T? Get(string id)
+        public T? Get(object id) //generic object to allow string(pps) and ints (appt & doctor ids)
         {
             if (id == null)
                 return null;
@@ -35,9 +36,16 @@ namespace MyProj.DataAccess.Repository
                 return dbSet.Find(id);
         }
 
-        public IEnumerable<T> GetAll()
+        public IEnumerable<T> GetAll(string? includeProperties = null)
         {
             IQueryable<T> list = dbSet;
+            if (!string.IsNullOrEmpty(includeProperties))
+            {
+                foreach (var includeProp in includeProperties.Split(new char[] { ',' }, StringSplitOptions.RemoveEmptyEntries))
+                {
+                    list = list.Include(includeProp);
+                }
+            }
             return list.ToList();
         }
 

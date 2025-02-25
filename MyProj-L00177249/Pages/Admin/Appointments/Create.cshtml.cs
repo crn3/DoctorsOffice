@@ -25,27 +25,54 @@ namespace MyProj_L00177249.Pages.Admin.Appointments
         public IEnumerable<SelectListItem> PatientList { get; set; }
         public void OnGet()
         {
-            PatientList = _unitOfWork.PatientRepo.GetAll().Select(i => new SelectListItem()
+            DoctorList = _unitOfWork.DoctorRepo.GetAll().Select(d => new SelectListItem
             {
-                Text = i.FirstName + " " + i.LastName,
-                Value = i.PPS.ToString()
-            }) ;
-            DoctorList = _unitOfWork.DoctorRepo.GetAll().Select(i => new SelectListItem()
-            {
-                Text = i.FirstName + " " + i.LastName,
-                Value = i.ID.ToString()
+                Text = d.FirstName + " " + d.LastName,
+                Value = d.ID.ToString()
             });
+
+            PatientList = _unitOfWork.PatientRepo.GetAll().Select(p => new SelectListItem
+            {
+                Text = p.FirstName + " " + p.LastName,
+                Value = p.PPS
+            });
+
             Appointments = _unitOfWork.ApptRepo.GetAll();
         }
 
-        public IActionResult OnPost(Appointment appointment)
+
+        public IActionResult OnPost()
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                _unitOfWork.ApptRepo.Add(appointment);
-                _unitOfWork.Save();
+                // Debugging output
+                foreach (var error in ModelState.Values.SelectMany(v => v.Errors))
+                {
+                    Console.WriteLine(error.ErrorMessage);
+                }
+
+                // Repopulate the dropdowns
+                DoctorList = _unitOfWork.DoctorRepo.GetAll().Select(d => new SelectListItem
+                {
+                    Text = d.FirstName + " " + d.LastName,
+                    Value = d.ID.ToString()
+                });
+
+                PatientList = _unitOfWork.PatientRepo.GetAll().Select(p => new SelectListItem
+                {
+                    Text = p.FirstName + " " + p.LastName,
+                    Value = p.PPS
+                });
+
+                return Page();
             }
+
+            _unitOfWork.ApptRepo.Add(Appointment);
+            _unitOfWork.Save();
+
             return RedirectToPage("Index");
         }
+
+
     }
 }
