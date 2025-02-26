@@ -296,3 +296,4 @@ C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj-L00177249\obj
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj-L00177249\obj\Debug\net8.0\MyProj-L00177249.pdb
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj-L00177249\obj\Debug\net8.0\MyProj-L00177249.genruntimeconfig.cache
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj-L00177249\obj\Debug\net8.0\ref\MyProj-L00177249.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj-L00177249\obj\Debug\net8.0\MyProj-L00177249.sourcelink.json

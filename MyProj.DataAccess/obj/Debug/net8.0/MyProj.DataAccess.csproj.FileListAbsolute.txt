@@ -32,3 +32,4 @@ C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.DataAccess\ob
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.DataAccess\obj\Debug\net8.0\MyProj.DataAccess.pdb
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.DataAccess\obj\Debug\net8.0\MyProj.DataAccess.genruntimeconfig.cache
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.DataAccess\obj\Debug\net8.0\ref\MyProj.DataAccess.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.DataAccess\obj\Debug\net8.0\MyProj.DataAccess.sourcelink.json

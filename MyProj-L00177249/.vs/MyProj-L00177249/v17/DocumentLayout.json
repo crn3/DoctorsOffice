@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|solutionrelative:pages\\admin\\appointments\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D38D3BE3-6B05-4A54-9B17-BED10B2CDA93}|MyProj-L00177249.csproj|c:\\users\\racha\\onedrive - atlantic tu\\year 3\\asp.net\\myproj\\myproj-l00177249\\pages\\admin\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -183,7 +183,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 195,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -211,25 +211,24 @@
               "RelativeToolTip": "Pages\\Admin\\Appointments\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-24T12:21:17.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:21:17.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml",
               "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Index.cshtml",
               "ToolTip": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml",
               "RelativeToolTip": "Pages\\Admin\\Appointments\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBoAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T12:32:47.228Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\racha\\OneDrive - Atlantic TU\\Year 3\\ASP.Net\\MyProj\\MyProj-L00177249\\Pages\\Admin\\Appointments\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Admin\\Appointments\\Index.cshtml.cs",
@@ -250,8 +249,7 @@
               "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\ApptRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:37:34.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T10:37:34.347Z"
             },
             {
               "$type": "Document",
@@ -263,8 +261,7 @@
               "RelativeToolTip": "Pages\\Admin\\Appointments\\Create.cshtml.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:22:48.866Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:22:48.866Z"
             },
             {
               "$type": "Document",
@@ -276,8 +273,7 @@
               "RelativeToolTip": "..\\MyProj.Models\\Models\\Appointment.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T12:33:44.815Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T12:33:44.815Z"
             },
             {
               "$type": "Document",
@@ -325,8 +321,7 @@
               "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\DoctorRepo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T10:36:03.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T10:36:03.532Z"
             },
             {
               "$type": "Document",
@@ -350,8 +345,7 @@
               "RelativeToolTip": "..\\MyProj.DataAccess\\Repository\\IRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T23:48:13.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T23:48:13.576Z"
             },
             {
               "$type": "Document",

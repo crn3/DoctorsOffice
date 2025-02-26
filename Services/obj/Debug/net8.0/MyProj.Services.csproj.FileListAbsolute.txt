@@ -15,3 +15,4 @@ C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\n
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\refint\MyProj.Services.dll
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.pdb
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\ref\MyProj.Services.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\Services\obj\Debug\net8.0\MyProj.Services.sourcelink.json
