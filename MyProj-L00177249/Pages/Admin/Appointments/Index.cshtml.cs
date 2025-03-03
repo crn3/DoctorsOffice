@@ -11,6 +11,8 @@ namespace MyProj_L00177249.Pages.Admin.Appointments
     {
         private readonly IUnitOfWork _unitOfWork;
         public IEnumerable<Appointment> Appointment;
+        public List<Appointment> allInfo;
+
 
         public IndexModel(IUnitOfWork unitOfWork)
 
@@ -20,6 +22,7 @@ namespace MyProj_L00177249.Pages.Admin.Appointments
         public void OnGet()
         {
             Appointment = _unitOfWork.ApptRepo.GetAll();
+            allInfo = _unitOfWork.ApptRepo.GetAllInfo();
         }
     }
 }

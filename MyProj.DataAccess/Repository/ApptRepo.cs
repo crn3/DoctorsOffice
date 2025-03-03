@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MyProj.Models.Models;
 using MyProj.DataAccess.DataAccess;
+using Microsoft.EntityFrameworkCore;
 
 namespace MyProj.DataAccess.Repository
 {
@@ -15,6 +16,10 @@ namespace MyProj.DataAccess.Repository
 		{
 			_dbContext = dbContext;
 		}
+
+
+
+
 		public void Update(Appointment appt)
 		{
 			var apptFromDB = _dbContext.Appointments.
@@ -23,6 +28,15 @@ namespace MyProj.DataAccess.Repository
 			apptFromDB.DoctorId = appt.DoctorId;
 			apptFromDB.AppDate = appt.AppDate;
 			apptFromDB.Notes = appt.Notes;
+		}
+
+		public List<Appointment> GetAllInfo()
+		{
+			var appointments = _dbContext.Appointments
+				.Include(a => a.Patient)
+				.Include(a => a.Doctor)
+				.ToList();
+			return appointments;
 		}
 	}
 }

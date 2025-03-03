@@ -20,3 +20,4 @@ C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.Models\obj\De
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.Models\obj\Debug\net8.0\refint\MyProj.Models.dll
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.Models\obj\Debug\net8.0\MyProj.Models.pdb
 C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.Models\obj\Debug\net8.0\ref\MyProj.Models.dll
+C:\Users\racha\OneDrive - Atlantic TU\Year 3\ASP.Net\MyProj\MyProj.Models\obj\Debug\net8.0\MyProj.Models.sourcelink.json

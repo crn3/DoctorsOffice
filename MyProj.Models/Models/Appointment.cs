@@ -18,11 +18,11 @@ namespace MyProj.Models.Models
 								//panics and creates a whole new column 'PatientPPS' otherwise
 		[Required]
 		public string PPS { get; set; }
-		public Patient Patient { get; set; }
+		public Patient? Patient { get; set; }
         //foreign key to link to doctor table
         [Required] 
 		public int DoctorId { get; set; }
-		public Doctor Doctor { get; set; }
+		public Doctor? Doctor { get; set; }
 
         [Required] 
 		public DateTime AppDate { get; set; }
